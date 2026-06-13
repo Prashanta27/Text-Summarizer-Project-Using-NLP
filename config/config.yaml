@@ -5,4 +5,6 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: 
+  source_URL: https://github.com/Prashanta27/Text-Summarizer-Project-Using-NLP/raw/refs/heads/main/summarizer-data.zip
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
